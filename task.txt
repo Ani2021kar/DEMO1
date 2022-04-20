@@ -1,0 +1,3 @@
+To fetch multiple data using id 
+
+to perform join operation in spring boot
